@@ -1,6 +1,3 @@
-# Writing the provided README content to a markdown file
-
-readme_content = """
 # 💫 **About Me**
 Hello! 👋 I’m **Sanjai**, a software developer with a knack for building **scalable, user-centric applications** that simplify lives. My passion lies in transforming ideas into digital realities, from stunning **frontend designs** to powerful **backend architectures**. 🚀  
 
@@ -59,7 +56,7 @@ Hello! 👋 I’m **Sanjai**, a software developer with a knack for building **s
 - ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjai-developer&theme=radical&hide_border=false)  
 - ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjai-developer&theme=radical&hide_border=false&layout=compact)  
 
-🏆 **Achievements**  
+###**🏆 **Achievements**  
 - **Repositories:** Contributed to over 50+ repositories.  
 - **Stars:** Earned ⭐ from peers for innovative projects.  
 
