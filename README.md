@@ -1,79 +1,18 @@
-# 💫 About Me  
-Hello! 👋 I’m **Sanjai**, a software developer with a knack for building **scalable, user-centric applications** that simplify lives. My passion lies in transforming ideas into digital realities, from stunning **frontend designs** to powerful **backend architectures**. 🚀  
+# 💫 About Me:
+🔭 I’m currently working on<br>Building and refining full-stack projects with modern web technologies (MERN stack, Java, and automation tools like n8n). I focus on developing scalable, user-friendly applications that solve real-world problems.<br><br>🤝 I’m looking to collaborate on<br>Innovative projects that combine AI + full-stack development, as well as opportunities where I can contribute to impactful business solutions.<br><br>🙌 I’m looking for help with<br>Improving my expertise in cloud deployment, system design, and advanced AI integrations, so I can scale my projects to industry standards.<br><br>🌱 I’m currently learning<br>Cutting-edge technologies including AI/ML concepts, Cloud Computing, and Cybersecurity fundamentals, while strengthening my foundation in Data Structures & Algorithms for problem-solving.<br><br>💬 Ask me about<br>Full-stack development (MERN + Java), automation workflows, project building from scratch, and strategies for integrating AI into practical applications.<br><br>⚡ Fun fact<br>I’ve already worked on 3+ projects ranging from automation tools to portfolio generators, and I’m always excited to learn new tech stacks based on project needs. My ultimate goal is to join a valuable company, grow my career, and contribute to its long-term success.
 
-✨ **What Drives Me?**  
-- 🔥 **Innovation:** Tackling challenges with creative solutions.  
-- 📚 **Learning:** Staying curious and leveling up every day.  
-- 🌍 **Impact:** Building products that genuinely improve lives.  
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sanjai-vcet&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sanjai-vcet&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjai-vcet&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🌟 What I Do  
-### 🛠 Current Projects  
-- ⚽ **Turfify:** Transforming how sports enthusiasts book turfs, bringing communities closer one game at a time.  
-- 📞 **My Contact Backend API:** A robust Express.js API for managing contact information efficiently with seamless CRUD operations.  
-
-### 🌱 Current Learning Goals  
-- 🚀 **Advanced Full-Stack Development** (Spring Boot & React)  
-- ☁ **Cloud Scalability & Optimization** with Firebase  
-
-### 🎯 Collaboration Interests  
-- 🎨 Frontend/UI Design  
-- 🏗 Scalable Full-Stack Projects  
-- 🔥 Firebase-powered Applications  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sanjai-vcet&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sanjai-vcet&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🖌 What Sets Me Apart  
-- 💡 **Problem Solver:** I enjoy dissecting problems and designing innovative solutions.  
-- 📈 **Growth-Oriented:** Every project is a stepping stone to grow personally and professionally.  
-- 🤝 **Team Player:** Thrives in collaborative environments, learning, and contributing to a shared vision.  
-
----
-
-## 🔥 Highlights  
-### ⚽ Turfify: Connecting Players, One Game at a Time  
-- 📆 Simplifies turf bookings with intuitive scheduling features.  
-- 💬 Community-driven app that fosters communication and engagement.  
-
-### 📞 My Contact Backend API: Scalable Contact Management  
-- 📡 RESTful API for managing contacts efficiently.  
-- 💾 MongoDB integration for seamless data handling.  
-- 🚀 Well-structured CRUD operations with error handling.  
-
-🔗 **Project Repository:** [GitHub Link](https://github.com/yourusername/mycontact-backend)  
-
----
-
-## 🌐 Let’s Connect!  
-📫 **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)  
-🌐 **Portfolio:** [Visit Here](#)  
-💼 **LinkedIn:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjai-n-b9536328)  
-🐦 **Twitter:**  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
-
----
-
-### 📊 GitHub Stats  
-💻 **Programming Activity**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjai-developer&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjai-developer&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjai-developer&theme=radical&hide_border=false&layout=compact" />
-</p>
-
-### 🏆 Achievements  
-- ⭐ **Repositories:** Contributed to over **50+ repositories**.  
-- 🌟 **Stars:** Earned recognition from peers for **innovative projects**.  
-
----
-
-### ✍️ Inspirational Dev Quote  
-> "First, solve the problem. Then, write the code." – John Johnson  
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Sanjai-developer&icon=0&color=12)](https://visitcount.itsvg.in)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
